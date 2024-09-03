@@ -1,0 +1,2 @@
+Ctrl + Shift + ' = Yangi terminal ochish
+Ctrl + T = Saytni revresh kiladi
